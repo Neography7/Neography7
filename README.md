@@ -53,6 +53,7 @@
 <h4 align="left">Testing:</h4>
 <p align="left">
     <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /> </a>
+    <a href="https://phpunit.de" target="_blank" rel="noreferrer"> <img src="https://phpunit.de/img/phpunit.svg" alt="phpunit" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Others:</h4>
 <p align="left">
